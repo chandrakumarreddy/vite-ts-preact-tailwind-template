@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-recommended", "stylelint-config-standard"],
+  "rules": {
+    "indentation": null,
+    "no-missing-end-of-source-newline": null
+  }
+}
