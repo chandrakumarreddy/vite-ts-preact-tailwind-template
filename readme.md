@@ -1,20 +1,24 @@
-# Vite Preact Typescript Template
+## Starter Kit for Vite, Preact, TypeScript, Tailwind and Node.js ESM
 
-This template will have you up-and-running with Preact and Vite in no time.
+Minimal, sensible defaults, fast.
 
-# ✨ Features
+![screenshot of `app.tsx`](./screenshot.png)
 
+# ✨ Technologies
+
+- Vite
+- Preact
 - Typescript
+- Tailwind CSS
 - ESLint
 - Prettier
 - Stylelint
 - husky and lint-staged
 - Path Alias (Absolute imports)
 
-# Commands
+## Setup
 
-```
-npm start: start the development server
-npm run build: build for production
-npm run preview: serve a production build locally for testing
-```
+Press the "Use this template" on the top of this repository's GitHub page.
+Run yarn install .
+yarn dev for development.
+yarn build for production builds.

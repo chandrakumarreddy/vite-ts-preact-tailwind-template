@@ -1,6 +1,6 @@
 import preactRefresh from '@prefresh/vite'
 import { resolve } from 'path'
-// eslint-disable-next-line sort-imports
+
 import type { UserConfig } from 'vite'
 
 const config: UserConfig = {
