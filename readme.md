@@ -18,7 +18,7 @@ Minimal, sensible defaults, fast.
 
 ## Setup
 
-Press the "Use this template" on the top of this repository's GitHub page.
-Run yarn install .
-yarn dev for development.
-yarn build for production builds.
+- Press the "Use this template" on the top of this repository's GitHub page.
+- Run yarn install .
+- yarn dev for development.
+- yarn build for production builds.
